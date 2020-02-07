@@ -1,6 +1,6 @@
 # Miyagi Exercise
 
-## A script that asks for a user's input and responds with predefined string to certain user inputs
+## A script that asks for a user's input and responds with predefined strings to certain user inputs
 
 ## Learning outcomes
 
